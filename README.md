@@ -43,8 +43,8 @@ The following diagram illustrates the complete DocQA workflow used in this proje
 
 
 
-![ DocQA Features](./assets/image4.png)
-![ DocQA Features](./assets/image4.png)
+![ Demo ](./assets/image5.png)
+![ Demo ](./assets/image6.png)
 
 
 
