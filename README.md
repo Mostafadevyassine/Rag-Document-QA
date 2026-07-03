@@ -65,7 +65,7 @@ The following diagram illustrates the complete DocQA workflow used in this proje
 
 | Valid Questions                             | InValid Questions                          |
 | ---------------------------------- | --------------------------------- |
-| ![Valid Questions](./assets/image7.jpeg)  | ![InValid Questions](./assets/image8.jpeg) |
+| ![Valid Questions](./assets/image9.jpeg)  | ![InValid Questions](./assets/image10.jpeg) |
 
 
 
