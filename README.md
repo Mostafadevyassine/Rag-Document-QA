@@ -39,12 +39,26 @@ The following diagram illustrates the complete DocQA workflow used in this proje
 
 ---
 
-## Demo 
+## Demo Web 
+
+
+
+|  Valid Questions                            
+| ---------------------------------- | 
+| ![InValid Questions](./assets/image5.jpeg)  | 
+ 
+
+| InValid Questions                          |
+--------------------------------- |
+![Telegram Bot](./assets/image6.jpeg) |
 
 
 
 ![ Demo ](./assets/image5.png)
 ![ Demo ](./assets/image6.png)
+
+
+
 
 
 
