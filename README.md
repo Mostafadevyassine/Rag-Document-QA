@@ -48,24 +48,24 @@ The following diagram illustrates the complete DocQA workflow used in this proje
 | ![InValid Questions](./assets/image5.png)  | 
  
 
+
+
 | InValid Questions                          |
 --------------------------------- |
 ![Telegram Bot](./assets/image6.png) |
 
 
 
-![ Demo ](./assets/image5.png)
-![ Demo ](./assets/image6.png)
+## Demo Telegram Bot 
 
 
 
 
 
 
-
-| Telegram Bot                             | Telegram Bot                          |
+| Valid Questions                             | InValid Questions                          |
 | ---------------------------------- | --------------------------------- |
-| ![Telegram Bot](./assets/image13.jpeg)  | ![Telegram Bot](./assets/image14.jpeg) |
+| ![Valid Questions](./assets/image7.jpeg)  | ![InValid Questions](./assets/image8.jpeg) |
 
 
 
