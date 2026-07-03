@@ -45,12 +45,12 @@ The following diagram illustrates the complete DocQA workflow used in this proje
 
 |  Valid Questions                            
 | ---------------------------------- | 
-| ![InValid Questions](./assets/image5.jpeg)  | 
+| ![InValid Questions](./assets/image5.png)  | 
  
 
 | InValid Questions                          |
 --------------------------------- |
-![Telegram Bot](./assets/image6.jpeg) |
+![Telegram Bot](./assets/image6.png) |
 
 
 
