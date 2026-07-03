@@ -36,3 +36,22 @@ The following diagram illustrates the complete DocQA workflow used in this proje
 
 ![ DocQA Features](./assets/image4.png)
 
+
+---
+
+## Demo 
+
+
+
+![ DocQA Features](./assets/image4.png)
+![ DocQA Features](./assets/image4.png)
+
+
+
+
+| Telegram Bot                             | Telegram Bot                          |
+| ---------------------------------- | --------------------------------- |
+| ![Telegram Bot](./assets/image13.jpeg)  | ![Telegram Bot](./assets/image14.jpeg) |
+
+
+
