@@ -15,7 +15,9 @@ A language model doesn’t know the contents of your private documents. If you a
 
 RAG works in two phases:
 
-* Ingestion : The document is split into overlapping chunks. Each chunk is converted into an embedding (a vector representation of its semantic meaning) and stored in a vector database.
+* Ingestion : The document is split into overlapping chunks. Each chunk is converted into an embedding (a vector representation of its semantic meaning) and stored in a vector database or in memory.
 * Query : The user’s question is converted into an embedding and compared with the stored document embeddings to retrieve the most relevant chunks. These retrieved passages are then provided to the language model as context, with instructions to generate an answer using only the supplied information.
 
+The following diagram illustrates the complete RAG workflow used in this project :
 
+![ DocQA RAG Workflow](./assets/image2.png)
